@@ -14,7 +14,7 @@ This portfolio demonstrates my skills in web design and front-end development. I
 ## Installation
 1. Clone the repository:
 * bash
-git clone [https://github.com/Diyuu11/portfolio.git]
+git clone [https://github.com/Diyuu11/my-portfolio]
 
 ## contact
 feel free to reach out via [diagodu198@gmail.com]
